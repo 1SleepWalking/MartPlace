@@ -72,6 +72,10 @@
 	content: "\e82b";
 }
 
+.lnr-user:before {
+	content: "\e82a";
+}
+
 .lnr-license:before {
 	content: "\e822";
 }
@@ -109,4 +113,40 @@
 }
 .lnr-question-circle:before {
 	content: "\e87d";
+}
+
+.lnr-home:before {
+	content: "\e800";
+}
+
+.lnr-cog:before {
+	content: "\e810";
+}
+
+.lnr-dice:before {
+	content: "\e812";
+}
+
+.lnr-upload:before {
+	content: "\e866";
+}
+
+.lnr-book:before {
+	content: "\e828";
+}
+
+.lnr-exit:before {
+	content: "\e820";
+}
+
+.lnr-star:before {
+	content: "\e814";
+}
+
+.lnr-trash:before {
+	content: "\e811";
+}
+
+.lnr-inbox:before {
+	content: "\e81a";
 }
